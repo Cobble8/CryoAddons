@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CCC",
+        "CCC",
+        "CCC"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "cryoaddons:cryosteel_nugget"
+        }
+    },
+    
+    "result":
+    {
+        "item": "cryoaddons:cryosteel_ingot",
+        "count": 1
+    }
+}

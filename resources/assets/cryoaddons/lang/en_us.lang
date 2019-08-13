@@ -1,0 +1,36 @@
+
+//Items
+item.cryosteel_ingot.name=Cryosteel Ingot
+item.cryosteel_sword.name=Cryosteel Sword
+item.cryosteel_pickaxe.name=Cryosteel Pickaxe
+item.cryosteel_shovel.name=Cryosteel Shovel
+item.cryosteel_hoe.name=Cryosteel Hoe
+item.cryosteel_axe.name=Cryosteel Axe
+item.cryosteel_nugget.name=Cryosteel Nugget
+item.raw_cryosteel.name=Raw Cryosteel
+item.cryoaddons_guide.name=CryoAddons Guide
+
+//Entities
+entity.kitten.name=Kitten
+
+//Blocks
+tile.cryosteel_block.name=Block of Cryosteel
+tile.cryosteel_ore.name=Cryosteel Ore
+tile.cryogelid_grass.name=Cryogelid Grass
+tile.cryo_glowstone.name=Cryo-Glowstone
+tile.cryo_portal.name=CryoPortal
+tile.cryosteel_generator.name=Cryosteel Generator
+tile.cryosteel_producer.name=Cryosteel Producer
+
+//Containers
+container.cryosteel_generator=Cryosteel Generator
+container.cryosteel_producer=Cryosteel Producer
+
+//Armor
+item.cryosteel_helmet.name=Cryosteel Helmet
+item.cryosteel_chestplate.name=Cryosteel Chestplate
+item.cryosteel_leggings.name=Cryosteel Leggings
+item.cryosteel_boots.name=Cryosteel Boots
+
+//Creative Tabs
+itemGroup.cryoaddonstab=CryoAddons

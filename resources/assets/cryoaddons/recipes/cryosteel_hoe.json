@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CC ",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "cryoaddons:cryosteel_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "cryoaddons:cryosteel_hoe",
+        "count": 1
+    }
+}

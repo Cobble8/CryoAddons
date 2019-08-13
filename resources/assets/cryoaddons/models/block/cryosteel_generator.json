@@ -1,0 +1,12 @@
+{
+   "parent": "block/cube",
+   "textures": {
+       "particle": "cryoaddons:blocks/cryosteel_generator_side",
+       "down": "cryoaddons:blocks/cryosteel_generator_top",
+       "up": "cryoaddons:blocks/cryosteel_generator_top",
+       "north": "cryoaddons:blocks/cryosteel_generator_side",
+       "east": "cryoaddons:blocks/cryosteel_generator_side",
+       "south": "cryoaddons:blocks/cryosteel_generator_side",
+       "west": "cryoaddons:blocks/cryosteel_generator_side"
+   }
+}
