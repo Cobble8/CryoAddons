@@ -1,0 +1,10 @@
+
+{
+    "variants":
+    {
+        "check_decay=true,decayable=true": { "model": "cryoaddons:cryogelid_leaves" },
+        "check_decay=true,decayable=false": { "model": "cryoaddons:cryogelid_leaves" },
+        "check_decay=false,decayable=true": { "model": "cryoaddons:cryogelid_leaves" },
+        "check_decay=false,decayable=false": { "model": "cryoaddons:cryogelid_leaves" }
+    }
+}

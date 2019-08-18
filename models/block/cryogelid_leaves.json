@@ -1,0 +1,7 @@
+{
+    "parent": "block/leaves",
+    "textures":
+    {
+        "all": "cryoaddons:blocks/cryogelid_leaves"
+    }
+}

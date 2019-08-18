@@ -1,0 +1,55 @@
+{
+    "display": {
+        "title": {
+            "text": "Frozen Armor"
+        },
+        "description": {
+            "text": "Craft some Cryosteel Armor"
+        },
+        "icon": {
+            "item": "cryoaddons:cryosteel_chestplate"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "cryosteel_armor": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "cryoaddons:cryosteel_helmet",
+                        "count": {
+                            "min": 1,
+                            "max": 50
+                        }
+                    },
+                    {
+                        "item": "cryoaddons:cryosteel_chestplate",
+                        "count": {
+                            "min": 1,
+                            "max": 50
+                        }
+                    },
+                    {
+                        "item": "cryoaddons:cryosteel_leggings",
+                        "count": {
+                            "min": 1,
+                            "max": 50
+                        }
+                    },
+                    {
+                        "item": "cryoaddons:cryosteel_boots",
+                        "count": {
+                            "min": 1,
+                            "max": 50
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "cryoaddons:cryosteel_ingot"
+}

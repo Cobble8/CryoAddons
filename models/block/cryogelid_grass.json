@@ -1,0 +1,12 @@
+{
+   "parent": "block/cube",
+   "textures": {
+       "particle": "cryoaddons:blocks/cryogelid_grass_side",
+       "down": "cryoaddons:blocks/cryogelid_grass_bottom",
+       "up": "cryoaddons:blocks/cryogelid_grass_top",
+       "north": "cryoaddons:blocks/cryogelid_grass_side",
+       "east": "cryoaddons:blocks/cryogelid_grass_side",
+       "south": "cryoaddons:blocks/cryogelid_grass_side",
+       "west": "cryoaddons:blocks/cryogelid_grass_side"
+   }
+}
