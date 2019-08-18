@@ -1,9 +1,0 @@
-    
-{
-    "parent": "block/cube_column",
-    "textures":
-    {
-        "end":  "cryoaddons:blocks/cryogelid_log_top",
-        "side": "cryoaddons:blocks/cryogelid_log_side"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "parent": "block/half_slab",
-    "textures":
-    {
-        "bottom": "cryoaddons:blocks/cryogelid_planks",
-        "top": "cryoaddons:blocks/cryogelid_planks",
-        "side": "cryoaddons:blocks/cryogelid_planks"
-    }
-}

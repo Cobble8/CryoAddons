@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=default": { "model": "cryoaddons:cryogelid_slab_double" }
+    }
+}

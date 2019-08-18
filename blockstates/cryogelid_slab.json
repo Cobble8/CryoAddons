@@ -1,7 +1,0 @@
-{
-    "variants":
-    {
-        "half=bottom,variant=default": { "model": "cryoaddons:cryogelid_slab_bottom" },
-        "half=top,variant=default": { "model": "cryoaddons:cryogelid_slab_top" }
-    }
-}

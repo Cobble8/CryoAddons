@@ -1,0 +1,15 @@
+[
+{
+  "modid": "cryoaddons",
+  "name": "CryoAddons",
+  "description": "An amazing mod that adds in a new type of item to the game! Cryosteel!",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "authorList": ["Cobble8"],
+  "URL": "https://github.com/Cobble8/CryoAddons",
+  "credits": "Loremaster and TurtyWurty for teaching me how to mod ¢¾",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

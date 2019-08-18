@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "cryoaddons:cryosteel_ingot"
+    }
+    
+    ],
+ 
+    "result": 
+    {
+        "item": "cryoaddons:cryosteel_nugget",
+        "count": 9
+    }
+}
